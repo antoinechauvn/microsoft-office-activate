@@ -83,5 +83,6 @@ cscript ospp.vbs /act
 ```
 
 If you see the error 0xC004F074, it means that your internet connection is unstable or the server is busy. Please make sure your device is online and try the command “act” again until you succeed.
-
-**More details on**: https://msguides.com/
+<br>
+<br>
+##### More details on: https://msguides.com/
