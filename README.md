@@ -1,4 +1,4 @@
-## Usage
+## Microsoft Office Activation using Deployment Tool
 Run `officedeploymenttool_14931-20120.exe`<br><br>
 Extract files to `C:\Office` folder<br><br>
 Modify the file according to the desired office suite<br>
@@ -54,11 +54,10 @@ https://docs.microsoft.com/fr-fr/office365/troubleshoot/installation/product-ids
 
 <hr>
   
-Run cmd.exe as Administrator<br>
-
-.\setup.exe /configure .\configuration-Office2021Enterprise.xml
-
-
+Run `cmd.exe` as Administrator and execute the following command:<br>
+`.\setup.exe /configure .\configuration-Office2021Enterprise.xml`
+<br>
+  
 Navigate to your Office folder:
 ```
 cd /d %ProgramFiles%\Microsoft Office\Office16
