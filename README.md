@@ -48,7 +48,7 @@ Modify the file according to the desired office suite<br>
 </Configuration>
 
 ```
-Don't forget to modify <Product ID="ProPlus2021Volume"> variables according to the desired products.<br>
+Don't forget to modify `<Product ID="ProPlus2021Volume">` variables according to the desired products.<br>
 #### Here you can find all supported ID for Office Deployment:<br>
 https://docs.microsoft.com/fr-fr/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run
 
