@@ -52,6 +52,9 @@ Don't forget to modify `<Product ID="ProPlus2021Volume">` variables according to
 #### Here you can find all supported ID for Office Deployment:<br>
 https://docs.microsoft.com/fr-fr/office365/troubleshoot/installation/product-ids-supported-office-deployment-click-to-run
 
+####You can find how to customize your XML document using microsoft configuration options:<br>
+https://learn.microsoft.com/fr-fr/deployoffice/office-deployment-tool-configuration-options
+
 <hr>
   
 Run `cmd.exe` as Administrator and execute the following command:<br>
